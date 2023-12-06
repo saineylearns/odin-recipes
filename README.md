@@ -7,3 +7,4 @@ I've learned so far.
 
 Cool right? this is only my 8th day of learning to code so I've still got lots of learning to do. But it's going well so far. I just have to keep on pushing myself, be patient and study, study, study!
 
+This is just me testing out committing git messages.
